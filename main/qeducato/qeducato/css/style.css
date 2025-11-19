@@ -11682,3 +11682,8 @@ color: #fff;
 .footer-top.wpding {
     background: #010c26;
 }
+.slider-bg,
+.cta-bg {
+    background-image: none !important;
+    background-color: #00a6e3 !important;
+}
