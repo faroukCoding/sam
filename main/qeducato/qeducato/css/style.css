@@ -11682,3 +11682,9 @@ color: #fff;
 .footer-top.wpding {
     background: #010c26;
 }
+/* Custom style to change background of specific sections to blue */
+#home .slider-active,
+.cta-area.cta-bg {
+    background-image: none !important;
+    background-color: #00a6e3 !important;
+}
